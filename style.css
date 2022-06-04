@@ -1,0 +1,23 @@
+
+.tile{
+    background-color: #9e177a;
+    border: none;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    cursor:pointer;
+    transition:0.5s;
+    
+    
+}
+.rightdiv{
+    float: left;
+    background-color: aqua;
+}
+
+
+
+h1{
+  text-align:center;
+}
+
